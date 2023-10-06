@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-<!--
-**Alamabd/Alamabd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Frontend Developer with experience developing attractive and responsive web applications. I am committed to creating a great user experience with a focus on beautiful design, fast performance, and good interactivity.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 &nbsp;I’m currently working on something cool :wink:
+- 🌱 &nbsp;I’m currently learning React, angular, flutter
+- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python/React/Express
+
+  
+<details>
+  <summary>more about me</summary>
+
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alamabd&layout=compact&hide=css,html)
+  
+  ![Alamabd' github stats](https://github-readme-stats.vercel.app/api?username=Alamabd&count_private=true&show_icons=true&theme=onedark)
+</details> 
