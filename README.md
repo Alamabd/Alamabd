@@ -4,7 +4,7 @@ I am a Frontend Developer with experience developing attractive and responsive w
 
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning React, angular, flutter
+- 🌱 &nbsp;I’m currently learning React, godot
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python/React/Express
 
   
