@@ -5,8 +5,8 @@ I am a Web and Mobile Developer with experience developing attractive and respon
 
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning ReactNative, Dart
-- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python/React/Express
+- 🌱 &nbsp;I’m currently learning ReactNative, Vue
+- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Php/Python/React/Express
 
 
 ## Language & Tech
